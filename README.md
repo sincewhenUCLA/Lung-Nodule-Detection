@@ -45,3 +45,12 @@ Author:	 Shiwen Shen
 Date: 	 09/28/2014
 Email: 	 shiwenshen@ucla.edu
 Copyright:  Medical Imaging Informatics Group, UCLA
+
+
+# Citation
+
+Please cite the following papers if this code is used for any publication purpose
+
+[1] Shen, Shiwen, et al. "An automated lung segmentation approach using bidirectional chain codes to improve nodule detection accuracy." Computers in biology and medicine 57 (2015): 139-149.
+
+[2] Duggan, Nóirín, et al. "A Technique for Lung Nodule Candidate Detection in CT Using Global Minimization Methods." Energy Minimization Methods in Computer Vision and Pattern Recognition. Springer International Publishing, 2015.
